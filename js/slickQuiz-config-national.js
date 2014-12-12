@@ -4,9 +4,9 @@
 
 var quizJSON = {
     "info": {
-        "name":    "TV 2014 Quiz",
+        "name":    "2014: Test Your Knowledge of the Year in TV",
         "main":    "<p style=\"padding:12px 0;\">Ladies and gentlemen, start your DVRs.</p>",
-        "results": "<h3>Learn More</h5><p>Head on back to <a href=\"http://denverpost.com/entertainment\">http://denverpost.com/entertainment</a>.</p>",
+        "results": "<h3>See you next year!</h3><p>Head on back to <a href=\"http://denverpost.com/entertainment\">http://denverpost.com/entertainment</a>.</p>",
         "level1":  "Couch Potato",
         "level2":  "DVR Captain",
         "level3":  "Casual Viewer",
