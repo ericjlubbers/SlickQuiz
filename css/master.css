@@ -2,28 +2,33 @@
 /* Styles to prettify the quiz page */
 
 html {
-    background: #eee;
+    background: #ffffff;
 }
 
 body {
-    width: 800px;
+    width: 100%;
+    max-width:654px;
     margin: 0 auto;
-    border: 2px solid #ccc;
+    border: 0px solid #ccc;
     border-top: none;
     background: #fff;
-    padding: 20px;
-    font-family: Trebuchet, Arial,Helvetica,sans-serif;
+    padding: 3px;
+    font-family: 'Open Sans', serif;
+    text-align: left;
     font-size: 16px;
     color: #353535;
     line-height: 1.5em;
 }
 
-h1,h2,h3,h4,h5,h6 {font-weight: bold;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat', serif;
+    font-weight: 700;}
 
 h1 {
     font-size: 26px;
     margin: 0 0 20px;
     color: #0C4569;
+    text-align: center;
 }
 h2 {
     font-size: 22px;
@@ -55,10 +60,13 @@ ol li { list-style-type: decimal; margin-left: 20px; }
 .button {
     float: left;
     width: auto;
+    font-family: 'Montserrat', serif;
+    text-transform: uppercase;
+    text-align: center;
     padding: 5px 15px;
     color:#ffffff;
-    background-color:darkcyan;
-    border: 1px solid #fff;
+    background-color:#910000;
+    border: 0px solid #fff;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
